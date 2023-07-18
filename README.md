@@ -19,7 +19,7 @@
 
 - ### SKY(하늘상태)
 
-<img src="https://github.com/leesoohyeon/weather_api_call/assets/88640008/6e62c04c-d81d-4a07-bc61-50f869172358" width="600px" height="320px"> 
+<img src="https://github.com/leesoohyeon/weather_api_call/assets/88640008/6e62c04c-d81d-4a07-bc61-50f869172358" width="400px" height="320px"> 
 <img src="https://github.com/leesoohyeon/weather_api_call/assets/88640008/82a7f71f-0eba-405a-9afc-c968186088fe" width="350px" height="320px"><br><br>
 
 **- JSON 형태로 받아온 코드 값에 대하여 하늘 상태를 표시합니다.**
