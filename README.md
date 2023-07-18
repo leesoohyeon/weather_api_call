@@ -2,7 +2,7 @@
 **사용언어 : Java** <br>
 **개발 Tool : Android Studio**<br>
 **사용스킬 : 공공데이터 OPEN API, 카카오 REST API,Retrofit, LocationManager**<br>
-**blog:**
+**blog : https://su-hyun07.tistory.com/16**
 <br><br>
 # Application Version
 - **minSdkVersion : 21**
